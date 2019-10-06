@@ -55,7 +55,7 @@
 # CONCLUSION
 ---
 
-##  1. Naive-Bayes Model performed best, with 88.16% accuracy over test set, both before and after the features were extracted.
+##  1. Naive-Bayes Model performed with 88.16% accuracy over test set, both before and after, the features were extracted.
 
 ## 2. 'Thal', 'Nmajvess', 'OldPeak', 'Slope', 'MaxHR', 'ChestPain', 'Exang', 'Sex' (8/14) had come out to be major predictors. Only MaxHR, among them, is indirectly proportional to ADS.
  
